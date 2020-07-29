@@ -1,1 +1,1 @@
-# Python-for-Everybody
+# University of Michigan/Coursera : Python-for-Everybody
